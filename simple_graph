@@ -1,7 +1,0 @@
-digraph {
-	A [label=start]
-	B [label=middle]
-	C [label=END]
-	A -> B
-	B -> C
-}
